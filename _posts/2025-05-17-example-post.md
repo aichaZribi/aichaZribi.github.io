@@ -35,12 +35,13 @@ This application exemplifies the intersection of cloud computing and health data
 
 
 ## Conclusion
-
+<div style="text-align: center;">
 The integration of cloud computing in biomedicine offers transformative potential, particularly in predictive analytics for chronic diseases like diabetes. As we continue to harness these technologies, the focus will shift towards more personalized and timely healthcare interventions, ultimately improving patient outcomes.
+</div>
 ---
 
 
 ### Reference
-*** Zhang, Y., Wang, F., Huang, X., Li, X., Liu, S., & Zhang, H. (2024). *** Optimization and Application of Cloud-based Deep Learning Architecture for Multi-Source Data Prediction. arXiv preprint arXiv:2410.12642. Retrieved from https://arxiv.org/abs/2410.12642
+***Zhang, Y., Wang, F., Huang, X., Li, X., Liu, S., & Zhang, H. (2024).*** Optimization and Application of Cloud-based Deep Learning Architecture for Multi-Source Data Prediction. arXiv preprint arXiv:2410.12642. Retrieved from https://arxiv.org/abs/2410.12642
 
 
