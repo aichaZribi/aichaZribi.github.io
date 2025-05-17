@@ -13,83 +13,33 @@ author: Bill Smith
 {: .box-success}
 As a Health Data Science Master's student, I've been exploring how cloud computing is revolutionizing biomedicine. One compelling application is the use of cloud-based deep learning systems for early disease prediction. A notable example is the development of a cloud-based deep learning architecture for multi-source data prediction, particularly in the context of diabetes risk assessment..
 
-**Here is some bold text**
+## Cloud-Based Deep Learning for Diabetes Prediction
 
-## Here is a secondary heading
+---
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+A recent study introduced a cloud-based deep learning system designed to predict diabetes risk by analyzing diverse data sources. This system leverages the computational power of cloud platforms to process and interpret large datasets efficiently.
 
-Here's a table:
+### Key Features:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+- **High Accuracy :** The model achieved a prediction accuracy of 94.2%, demonstrating its effectiveness in identifying individuals at risk of developing diabetes.
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+- **Efficiency:** Utilizing cloud resources, the system reduced training time by 93.2%, enabling faster model updates and deployment.
 
-How about a yummy crepe?
+- **Scalability:** The cloud infrastructure allows for seamless scaling, accommodating increasing data volumes without compromising performance.
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+- **Public Health Impact:** Early interventions based on the model's predictions led to a 37.5% reduction in diabetes incidence among the target population
 
-It can also be centered!
+## Implications for Health Data Science
+---
+This application exemplifies the intersection of cloud computing and health data science, highlighting how scalable infrastructure and advanced analytics can drive proactive healthcare solutions. For aspiring data scientists, it underscores the importance of integrating cloud technologies into health informatics to enhance disease prevention strategies.
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+## Conclusion
+---
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+The integration of cloud computing in biomedicine offers transformative potential, particularly in predictive analytics for chronic diseases like diabetes. As we continue to harness these technologies, the focus will shift towards more personalized and timely healthcare interventions, ultimately improving patient outcomes.
 
-And here is the same code with syntax highlighting:
+### Reference
+*** Zhang, Y., Wang, F., Huang, X., Li, X., Liu, S., & Zhang, H. (2024). *** Optimization and Application of Cloud-based Deep Learning Architecture for Multi-Source Data Prediction. arXiv preprint arXiv:2410.12642. Retrieved from https://arxiv.org/abs/2410.12642
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
 
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
