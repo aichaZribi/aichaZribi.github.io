@@ -4,24 +4,26 @@ title: About Me
 subtitle: Who Am I  ?
 ---
 
-Hi! I’m Aicha, a passionate Tunisian traveler who loves exploring and sharing the beauty of my country. Through this blog, I want to tell real stories, share hidden gems, and celebrate the rich culture, history, and everyday life of Tunisia.
+Hi! I’m Aicha, a Health Data Science Master’s student with a strong interest in biomedicine, public health, and how data can transform healthcare. My academic journey has led me to explore how technology and analytics can be used to better understand diseases, improve patient outcomes, and support evidence-based medicine.
 
 
-### Why Tunisia
-Tunisia is more than just beaches and desert — it’s a land where ancient history meets modern spirit. From Roman ruins and Ottoman palaces to couscous feasts and colorful medinas, Tunisia is a place that never stops surprising. Whether you're Tunisian, curious about visiting, or just want to learn more about the country, you’re in the right place.
-
+### 🔬 Why This Blog?
+--- 
+Biomedicine is a constantly evolving field — rich with innovation, complexity, and opportunities. As someone who stands at the intersection of health and data, I created this blog to:
+   - Simplify complex biomedical topics 🧠
+   - Share insights from research, current studies, and real-world applications 📊
+   - Explore how data science is reshaping the future of medicine and public health 🌍
 
 ### ✍️ What You'll Find Here
 
-This blog is a space for:
-   - Honest travel tips and guides 🧳
-   - Cultural stories and traditions 🎭
-   - Food adventures and recipes 🍲
-   - Historical places and local legends 🏛
-   - Daily life, opinions, and Tunisian vibes 💬
+This blog features:
+   - Easy-to-understand explanations of biomedical concepts
+   - Discussions on current health research and innovations
+   - Data-driven perspectives on health problems
+   - Health data science tools, case studies, and resources
+   - Reflections from my studies and projects
 
-I want this to feel like a walk through Tunisia — one post at a time.
+Whether you're a student, researcher, or curious reader — you're welcome here.
 
-
-### 📸 Join Me on the Journey
-I love capturing the beauty of Tunisia through my lens and words. You’ll find both original photos and personal experiences throughout the blog. Follow along and let’s explore Tunisia together — from the coastal towns of the north to the Saharan magic of the south.
+### 🎯 My Mission
+To make biomedicine more accessible and relatable through writing that connects science, data, and human health. I believe that good science communication can empower both professionals and the public.
